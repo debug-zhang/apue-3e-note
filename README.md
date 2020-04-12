@@ -1,4 +1,4 @@
-#《UNIX环境高级编程》第三版学习笔记笔记
+# 《UNIX环境高级编程》第三版学习笔记笔记
 
 ## 环境配置：
 - wget http://www.apuebook.com/src.3e.tar.gz

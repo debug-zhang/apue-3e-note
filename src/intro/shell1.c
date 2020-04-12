@@ -1,7 +1,9 @@
 #include "apue.h"
 #include <sys/wait.h>
 
-int main(void) {
+int 
+main(void)
+{
 	/* MAXLINE is from apue.h */
 	char buf[MAXLINE];
 	pid_t pid;
