@@ -43,4 +43,28 @@
 	- 3.15 函数 `ioctl`
 	- 3.16 `/dev/fd`
 	- 习题
-
+- 文件和目录
+	- 4.2 函数 `stat`、`fstat`、`fstatat` 和 `lstat`
+	- 4.3 文件类型
+	- 4.4 设置用户 ID 和设置组 ID
+	- 4.5 文件访问权限
+	- 4.6 新文件和目录的所有权
+	- 4.7 函数 `access` 和 `faccessat`
+	- 4.8 函数 `umask`
+	- 4.9 函数 `chmod`、`fchmod` 和 `fchmodat`
+	- 4.10 粘着位
+	- 4.11 函数 `chown`、`fchown`、`fchownat` 和 `lchown`
+	- 4.12 文件长度
+	- 4.13 文件截断
+	- 4.14 文件系统
+	- 4.15 函数 `link`、`linkat`、`unlink`、`unlinkat` 和 `remove`
+	- 4.16 函数 `rename` 和 `renameat`
+	- 4.17 符号链接
+	- 4.18 创建和读取符号链接
+	- 4.19 文件的时间
+	- 4.20 函数 `futimens`、`utimensat` 和 `utimes`
+	- 4.21 函数 `mkdir`、`mkdirat` 和 `rmdir`
+	- 4.22 读目录
+	- 4.23 函数 `chdir`、`fchidr` 和 `getcwd`
+	- 4.24 设备特殊文件
+	- 4.25 文件访问权限位小结
