@@ -1,12 +1,12 @@
-# 《UNIX环境高级编程》第三版学习笔记笔记
+# 《UNIX环境高级编程》第三版学习笔记
 
 ## 环境配置：
-- wget http://www.apuebook.com/src.3e.tar.gz
-- tar -zxvf src.3e.tar
-- cd apue.3e/
-- make
-- sudo cp ./include/apue.h /usr/include/
-- sudo cp ./lib/libapue.a /usr/local/lib/
+- `wget http://www.apuebook.com/src.3e.tar.gz`
+- `tar -zxvf src.3e.tar`
+- `cd apue.3e/`
+- `make`
+- `sudo cp ./include/apue.h /usr/include/`
+- `sudo cp ./lib/libapue.a /usr/local/lib/`
 
 
 ## 笔记目录：
@@ -18,7 +18,6 @@
 	- 1.7 出错处理
 	- 1.8 用户标识
 	- 1.9 信号
-	- 习题
 - 02 UNIX 标准及实现
 	- 2.2 UNIX 标准化
 	- 2.3 UNIX 系统实现
@@ -42,7 +41,6 @@
 	- 3.14 函数 `fcntl`
 	- 3.15 函数 `ioctl`
 	- 3.16 `/dev/fd`
-	- 习题
 - 04 文件和目录
 	- 4.2 函数 `stat`、`fstat`、`fstatat` 和 `lstat`
 	- 4.3 文件类型
@@ -93,3 +91,14 @@
 	- 6.8 登录账户记录
 	- 6.9 系统标识
 	- 6.10 时间和日期例程
+- 07 进程环境
+	- 7.2 `main` 函数
+	- 7.3 进程终止
+	- 7.5 环境表
+	- 7.6 C 程序的存储空间布局
+	- 7.7 共享库
+	- 7.8 存储空间分配
+	- 7.9 环境变量
+	- 7.10 函数 `setjmp` 和 `longjmp`
+	- 7.11 函数 `getrlimit` 和 `setrlimit`
+
