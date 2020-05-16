@@ -1,12 +1,15 @@
 # 《UNIX环境高级编程》第三版学习笔记
 
 ## 环境配置：
-- `wget http://www.apuebook.com/src.3e.tar.gz`
-- `tar -zxvf src.3e.tar`
-- `cd apue.3e/`
-- `make`
-- `sudo cp ./include/apue.h /usr/include/`
-- `sudo cp ./lib/libapue.a /usr/local/lib/`
+
+```shell
+wget http://www.apuebook.com/src.3e.tar.gz
+tar -zxvf src.3e.tar
+cd apue.3e/
+make
+sudo cp ./include/apue.h /usr/include/
+sudo cp ./lib/libapue.a /usr/local/lib/
+```
 
 
 ## 笔记目录：
